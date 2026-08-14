@@ -41,10 +41,10 @@
 
 <br/>
 
-<h3>Contatos</h3>
+<h3>🔗 Contatos</h3>
 
 <br/>
-<a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sbranaww@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/gabriel-sbranaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <br/>
 
 
@@ -54,9 +54,6 @@
 
 <div align="center">
 <br/>
-<p>
-<i>* Para a animação da cobrinha funcionar, é necessário configurar a <a href="https://github.com/Platane/snk">GitHub Action</a> correspondente no repositório.</i>
-</p>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsbrana/devsbrana/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsbrana/devsbrana/output/github-contribution-grid-snake.svg">
