@@ -20,16 +20,7 @@
 
 <div align="center">
 <br/>
-<a href="https://github.com/devsbrana">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devsbrana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/devsbrana">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsbrana&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
-<br/><br/>
-<a href="https://github.com/devsbrana">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devsbrana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</a>
+<a href="https://github.com/devsbrana"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devsbrana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></a> <a href="https://github.com/devsbrana"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devsbrana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></a>
 <br/>
 </div>
 
