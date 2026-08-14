@@ -1,10 +1,5 @@
 <h1>Olá! Sou Gabriel 👋</h1>
-<p>Estudante de Análise e Desenvolvimento de Sistemas.</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Desenvolvedor+Full+Stack;Transformando+ideias+em+c%C3%B3digos!+" alt="Typing SVG" /></a>
-
-<br/>
-
+<p>Estudante de Análise e Desenvolvimento de Sistemas na <strong>FIAP</strong> com foco em me tornar um desenvolvedor <strong>Full Stack</strong>.</p>
 
 
 <h3>🛠️ Tecnologias e Ferramentas</h3>
@@ -38,6 +33,14 @@
 <br/>
 </div>
 
+
+<br/>
+
+<h3>🎯 O que eu busco</h3>
+
+<p>
+Estou em busca de uma oportunidade profissional na área de tecnologia, visando ingressar no mercado de trabalho por meio de uma vaga de <strong>estágio</strong> ou <strong>trainee</strong>. Tenho muita vontade de aprender, evoluir junto com a equipe e colocar em prática meus conhecimentos em desenvolvimento de software, contribuindo sempre para a construção de boas soluções.
+</p>
 
 <br/>
 
