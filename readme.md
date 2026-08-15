@@ -44,8 +44,6 @@ Estou em busca de uma oportunidade profissional na área de tecnologia, visando 
 
 <br/>
 
-<h3>🐍 Contribuições</h3>
-
 <div align="center">
 <br/>
 <picture>
