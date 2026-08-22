@@ -8,7 +8,7 @@
 <br/>
 <a href="https://skillicons.dev">
 <!-- Substitua os ícones pelas tecnologias que você utiliza -->
-<img src="https://skillicons.dev/icons?i=react,ts,html,css,js,java,python,cs,postgres,docker&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,expo,js,java,python,cs,postgres,docker&theme=dark&perline=11" />
 </a>
 <br/>
 </div>
