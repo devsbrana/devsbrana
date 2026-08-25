@@ -27,7 +27,7 @@
 
 <div align="center">
 <br/>
-<a href="https://github.com/devsbrana"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devsbrana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></a> <a href="https://github.com/devsbrana"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devsbrana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></a>
+<a href="https://github.com/sbranaw"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sbranaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></a> <a href="https://github.com/sbranaw"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sbranaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></a>
 <br/>
 </div>
 
@@ -54,9 +54,9 @@ Estou em busca de uma oportunidade profissional na área de tecnologia, visando 
 <div align="center">
 <br/>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsbrana/devsbrana/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsbrana/devsbrana/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devsbrana/devsbrana/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbranaw/sbranaw/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbranaw/sbranaw/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sbranaw/sbranaw/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
